@@ -2,7 +2,7 @@
 
 <h2 align="center">Sobre</h2>
 
-<p align="center">Esse projeto é um app (shopping cart) onde é possível buscar por qualquer produto relacionado e também com a opção de adicionar ao carrinho determinados produtos de sua escolha.</p>
+<p align="center">Esse projeto é um app (shopping cart) onde é possível buscar por qualquer produto relacionado e também com a opção de adicionar ou remover do carrinho determinados produtos de sua escolha.</p>
 
 <br/>
 
