@@ -1,0 +1,32 @@
+.search {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 13px;
+  background-color: #fff;
+  box-shadow: 0 1px 2px rgba(0 0 0 / 0.1);
+  max-width: 500px;
+  width: 100%;
+  padding-right: 13px;
+}
+
+.search__input {
+  padding: 13px;
+  flex-grow: 1; /* O input irá crescer e ocupar todo o espaço disponível no container flex, ou seja, no container pai. */
+  border: none;
+  outline: none;
+  font-size: 0.8rem;
+  font-weight: 500;
+  border-right: 1px solid #ddd;
+}
+
+.search__button {
+  background-color: transparent;
+  border: none;
+  font-size: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #333;
+  cursor: pointer;
+}
